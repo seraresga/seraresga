@@ -38,5 +38,3 @@ A demonstration of a CRUD app with persistent data storage, using Ionic and Angu
 Feel free to explore my repositories and reach out if you'd like to collaborate or discuss tech ideas!
 
 --- 
-
-This version highlights your position and background, along with your expertise in both teaching and software development.
