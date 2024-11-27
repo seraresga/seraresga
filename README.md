@@ -2,7 +2,7 @@
 
 # RJ's Portfolio
 
-Welcome to my GitHub portfolio! I'm RJ, an educator and software developer specializing in mobile and web development, as well as data science. Check out my [portfolio website here](https://seraresga.github.io/portfolio/index.html) for more about my work and projects.
+Welcome to my GitHub portfolio! I'm RJ, an educator and software developer specializing in mobile and web development, as well as data science. Check out my [portfolio website here](https://seraresga.vercel.app/) for more about my work and projects.
 
 ## Table of Contents
 - [About Me](#about-me)
