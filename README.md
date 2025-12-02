@@ -4,7 +4,7 @@ Full-stack dev + Mobile dev + Part-time Instructor @ CSU.
 I build cross-platform apps, automate boring stuff, and ship projects powered by AI.  
 If it's web, mobile, or embedded… I can cook. ⚡
 
-Feel free to explore my **[portfolio website](https://your-portfolio-link-here.com/)** to learn more about my work and projects.
+Feel free to explore my **[portfolio website](https://portfolio-nine-blush-nbllmxun4u.vercel.app/)** to learn more about my work and projects.
 
 ---
 
