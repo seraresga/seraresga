@@ -5,6 +5,8 @@ I build cross-platform experiences, automate workflows, and ship products powere
 Web, mobile, embedded — if it runs code, I’ll make it work. ⚡
 
 Explore my **[portfolio website](https://portfolio-nine-blush-nbllmxun4u.vercel.app/)** to see my work and projects.
+## 🐍 Contribution Snake  
+![snake gif](https://raw.githubusercontent.com/rjaresga/rjaresga/output/github-snake.svg)
 
 ---
 
