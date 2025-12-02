@@ -1,40 +1,49 @@
+# Hey, I'm RJ 👋
+
+Full-stack dev + Mobile dev + Part-time Instructor @ CSU.  
+I build cross-platform apps, automate boring stuff, and ship projects powered by AI.  
+If it's web, mobile, or embedded… I can cook. ⚡
+
+Feel free to explore my **[portfolio website](https://your-portfolio-link-here.com/)** to learn more about my work and projects.
+
 ---
 
-# RJ ARESGA
+## ⚡ Tech Arsenal  
+**Web:** React • Next.js • Tailwind • Supabase • PHP  
+**Mobile:** Ionic Angular • Capacitor • Firebase  
+**Backend:** Python • Node.js • C++  
+**Others:** Arduino • AI/ML integrations • Cloud (Vercel/Firebase)
 
-Welcome to my GitHub! I’m RJ, a part-time instructor and software developer with expertise in mobile and web development, as well as data science. Feel free to explore my [portfolio website here](https://portfolio-nine-blush-nbllmxun4u.vercel.app/) to learn more about my work and projects.
+---
 
-## Table of Contents
-- [About Me](#about-me)
-- [Skills](#skills)
-- [Projects](#projects)
-- [Contact](#contact)
+## 🔥 Featured Projects  
 
-## About Me
-I currently work as a part-time instructor at Cagayan State University, specializing in computer science with a focus on mobile application development. My mission is to continuously grow as a tech professional, explore opportunities for extra income, and contribute to both the academic and tech communities.
+### 🎾 **Tournament Bracketing App**  
+Mobile dashboard + Firebase + AI handwriting recognition (soon).  
+**Live:** _insert link_  
+**Repo:** _insert link_
 
-## Skills
-- **Languages**: TypeScript, JavaScript, Python, C#, PHP
-- **Frameworks & Libraries**: Angular, Ionic, Pandas
-- **Tools & Technologies**: Git, DataGridView, QR Code Scanning, CRUD Applications, Face Recognition
-- **Other**: Curriculum development, exam creation, content creation for online income, and project management
+### 🎓 **Alumni CMS**  
+Next.js + Supabase + Tailwind + ShadCN  
+**Live:** _insert link_  
+**Repo:** _insert link_
 
-## Projects
-Check out some of the key projects I’ve worked on:
+### 🌐 **Portfolio Website**  
+Simple, clean, modern dev portfolio.  
+**Live:** _insert link_  
+**Repo:** _insert link_
 
-### [Thesis Archiving System](https://github.com/seraresga/thesis-archiving-system)
-A mobile app developed to assist students and faculty at CSU-Carig in managing and accessing theses.
+---
 
-### [Queueing System with QR Codes](https://github.com/seraresga/queueing-system)
-A QR code-based queue management system designed to streamline the queue experience at CSU-Carig.
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rjaresga&show_icons=true&theme=tokyonight)
 
-### [CRUD App using Ionic & Angular](https://github.com/seraresga/crud-app)
-A demonstration of a CRUD app with persistent data storage, using Ionic and Angular for seamless data handling and UI interactions.
+---
 
-## Contact
-- **Email**: jamesaresga57@gmail.com
-- **GitHub**: [GitHub Profile](https://github.com/seraresga)
+## 🤝 Connect  
+**Facebook:** _your link_  
+**LinkedIn:** _your link_  
+**Portfolio:** https://your-portfolio-link-here.com/
 
-Feel free to explore my repositories and reach out if you'd like to collaborate or discuss tech ideas!
-
---- 
+> Building cool things one repo at a time.  
+> Powered by caffeine, passion, and sometimes AI. ⚡
