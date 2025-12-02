@@ -2,7 +2,7 @@
 
 # SER ARESGA
 
-Welcome to my GitHub! I’m RJ, a part-time instructor and software developer with expertise in mobile and web development, as well as data science. Feel free to explore my [portfolio website here](https://seraresga.vercel.app/) to learn more about my work and projects.
+Welcome to my GitHub! I’m RJ, a part-time instructor and software developer with expertise in mobile and web development, as well as data science. Feel free to explore my [portfolio website here](https://portfolio-nine-blush-nbllmxun4u.vercel.app/) to learn more about my work and projects.
 
 ## Table of Contents
 - [About Me](#about-me)
