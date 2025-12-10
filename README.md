@@ -5,10 +5,6 @@ I build cross-platform experiences, automate workflows, and ship products powere
 Web, mobile, embedded — if it runs code, I’ll make it work. ⚡
 
 Explore my **[portfolio website](https://rjaresga.vercel.app/)** to see my work and projects.
-## 🐍 Contribution Snake  
-![snake gif](https://raw.githubusercontent.com/rjaresga/rjaresga/output/github-snake.svg)
-
----
 
 ## ⚡ Tech Arsenal  
 
@@ -69,17 +65,11 @@ Modern, clean dev portfolio with animations & dark mode.
 
 ---
 
-## 🐍 Contribution Snake  
-> (Looks sick on your profile — auto-updates daily)
-
-![snake gif](https://github.com/rjaresga/rjaresga/blob/output/github-snake.svg)
-
----
 
 ## 🤝 Connect  
 **Facebook:** _your link_  
 **LinkedIn:** _your link_  
-**Portfolio:** https://portfolio-nine-blush-nbllmxun4u.vercel.app/
+**Portfolio:** https://rjaresga.vercel.app/
 
 > Building cool things one repo at a time.  
 > Fueled by caffeine, consistency, and AI firepower. ⚡
