@@ -4,7 +4,7 @@ Full-stack & mobile dev • Part-time Instructor @ CSU
 I build cross-platform experiences, automate workflows, and ship products powered by AI.  
 Web, mobile, embedded — if it runs code, I’ll make it work. ⚡
 
-Explore my **[portfolio website](https://portfolio-nine-blush-nbllmxun4u.vercel.app/)** to see my work and projects.
+Explore my **[portfolio website](https://rjaresga.vercel.app/)** to see my work and projects.
 ## 🐍 Contribution Snake  
 ![snake gif](https://raw.githubusercontent.com/rjaresga/rjaresga/output/github-snake.svg)
 
@@ -52,7 +52,7 @@ Next.js + Supabase + Tailwind + ShadCN UI.
 
 ### 🌐 **Portfolio Website**  
 Modern, clean dev portfolio with animations & dark mode.  
-**Live:** https://portfolio-nine-blush-nbllmxun4u.vercel.app/  
+**Live:** https://rjaresga.vercel.app/  
 **Repo:** _coming soon_
 
 ---
